@@ -1,59 +1,71 @@
 <div align="center">
 
+<!-- Cover Image -->
+<img src="https://iili.io/fravbOx.png" alt="AniPic Cover" width="100%">
+
+<br/><br/>
+
 <!-- Animated Logo -->
-<img src="public/favicon.svg" alt="AniPic Logo" width="120" height="120">
+<img src="public/favicon.svg" alt="AniPic Logo" width="140" height="140">
 
 # AniPic
 
-### Lightning-Fast Image CDN | Unlimited Storage | Free Forever
+### ⚡ Lightning-Fast Image CDN | 🚀 Unlimited Storage | 💎 Free Forever
 
 <br/>
 
-[![GitHub Stars](https://img.shields.io/github/stars/Im-mortals/anipic-vault?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0a0b&color=ff0040)](https://github.com/Im-mortals/anipic-vault/stargazers)
-[![GitHub Forks](https://img.shields.io/github/forks/Im-mortals/anipic-vault?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0a0b&color=ff0040)](https://github.com/Im-mortals/anipic-vault/network/members)
-[![GitHub Issues](https://img.shields.io/github/issues/Im-mortals/anipic-vault?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0a0b&color=ff0040)](https://github.com/Im-mortals/anipic-vault/issues)
+[![GitHub Stars](https://img.shields.io/github/stars//Arise-in/Anipic?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0a0b&color=ff0040)](https://github.com//Arise-in/Anipic/stargazers)
+[![GitHub Forks](https://img.shields.io/github/forks//Arise-in/Anipic?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0a0b&color=ff0040)](https://github.com//Arise-in/Anipic/network/members)
+[![GitHub Issues](https://img.shields.io/github/issues//Arise-in/Anipic?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0a0b&color=ff0040)](https://github.com//Arise-in/Anipic/issues)
 [![License](https://img.shields.io/badge/License-MIT-ff0040?style=for-the-badge&labelColor=0a0a0b)](LICENSE)
+[![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-ff0040?style=for-the-badge&labelColor=0a0a0b)](https://github.com//Arise-in/Anipic/pulls)
 
 <br/>
 
-[**Live Demo**](https://anipic.aniflix.in) · [**GitHub**](https://github.com/Arise-in?tab=repositories) · [**Report Bug**](https://github.com/Im-mortals/anipic-vault/issues) · [**Request Feature**](https://github.com/Im-mortals/anipic-vault/issues)
+[**🌟 Live Demo**](https://anipic.aniflix.in) · [**📚 Documentation**](https://anipic.aniflix.in/docs) · [**🐛 Report Bug**](https://github.com//Arise-in/Anipic/issues) · [**✨ Request Feature**](https://github.com//Arise-in/Anipic/issues)
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=ff0040&height=100&section=header&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=100&section=header&animation=twinkling" width="100%"/>
 
 </div>
 
 ---
 
-## About
+## 🎯 About AniPic
 
-**AniPic** is a free, lightning-fast image hosting and CDN service powered by GitHub's infrastructure. Upload, manage, and share images with instant shareable links and a stunning interface.
+**AniPic** is the next-generation image hosting platform that revolutionizes how you store, manage, and share images. Built on GitHub's rock-solid infrastructure, AniPic delivers blazing-fast performance with zero cost and unlimited potential.
 
-> **Made with love by the [Aniflix Developer Team](https://aniflix.in)**
+Whether you're a developer building the next big thing, a content creator managing thousands of assets, or just someone who wants reliable image hosting—AniPic has you covered.
+
+> **💝 Crafted with passion by the [Aniflix Developer Team](https://aniflix.in)**
 
 ---
 
-## Features
+## ✨ Features That Matter
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### Core Features
-- **Lightning Fast** - Images served via global GitHub CDN
-- **100% Free** - No hidden costs, no storage limits
-- **Short Links** - Beautiful, professional shareable links
-- **Developer API** - Robust REST API for automation
+### 🚀 Core Power
+- **⚡ Lightning Fast CDN** - Global edge delivery via GitHub
+- **💰 100% Free Forever** - No limits, no tricks, no credit cards
+- **🔗 Beautiful Short Links** - Professional shareable URLs
+- **🛠️ Developer-First API** - RESTful API for seamless integration
+- **🔒 Military-Grade Security** - OAuth2 authentication & encrypted storage
+- **📱 Mobile Optimized** - Flawless experience on any device
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### Advanced Features
-- **Private Vault** - Store images privately in your GitHub
-- **Albums** - Organize images into collections
-- **Direct Embed** - Easy embedding for websites
-- **QR Codes** - Generate QR codes for any image
+### 🎨 Advanced Features
+- **🗂️ Smart Albums** - Organize images into beautiful collections with custom covers, descriptions, and privacy settings
+- **🔐 Private Vault** - Your personal GitHub-backed storage fortress
+- **🎭 Direct Embed** - Seamless integration for websites & apps
+- **📊 QR Code Generation** - Instant QR codes for any image
+- **🎨 Image Analytics** - Track views, downloads, and engagement
+- **🌈 Batch Operations** - Upload, edit, and manage multiple images at once
 
 </td>
 </tr>
@@ -61,202 +73,469 @@
 
 ---
 
-## Tech Stack
+## 🗂️ Albums: Your Images, Organized
+
+Albums in AniPic are more than just folders—they're a powerful way to organize, showcase, and share your image collections:
+
+### Album Features
+- **📸 Custom Cover Images** - Set stunning covers for your albums
+- **📝 Rich Descriptions** - Add context and details to your collections
+- **🔒 Privacy Controls** - Public, unlisted, or private albums
+- **🎯 Smart Sorting** - Sort by date, name, size, or custom order
+- **🔗 Shareable Links** - One link to share entire collections
+- **📊 Album Analytics** - Track views and engagement per album
+- **🏷️ Tagging System** - Tag and categorize for easy discovery
+- **⚡ Bulk Management** - Add/remove multiple images at once
+
+### Perfect For
+- Portfolio showcases
+- Project documentation
+- Event photo collections
+- Product catalogs
+- Design asset libraries
+- Client deliverables
+
+---
+
+## 🛠️ Tech Stack
 
 <div align="center">
 
 ![Next.js](https://img.shields.io/badge/Next.js%2015-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React%2019-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub%20API-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitHub API](https://img.shields.io/badge/GitHub%20API-181717?style=for-the-badge&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 </div>
 
----
-
-## Usage Policy
-
-### You ARE Free To:
-- Use this service for personal and commercial projects
-- Fork and modify the code for your own use
-- Contribute improvements via pull requests
-- Share and spread the word about AniPic
-
-### You Are NOT Allowed To:
-- **Remove or modify credits/attribution** - This is required
-- **Deploy your own instance without credit** - Give credit where due
-- **Use for illegal or malicious purposes** - No NSFW, malware, etc.
-- **Claim this project as your own work** - Be honest
-
-> **Removing credits is a violation of the license and is strictly prohibited.**
+### Why This Stack?
+- **Next.js 15** - Server components, streaming, and optimal performance
+- **TypeScript** - Type safety and better developer experience
+- **Tailwind CSS** - Rapid UI development with utility-first styling
+- **GitHub API** - Unlimited free storage with global CDN
+- **Vercel** - Edge deployment for lightning-fast global access
 
 ---
 
-## For Contributors
+## 🚀 Roadmap & Future Plans
+
+<details open>
+<summary><b>📅 Q1 2026 - Foundation Enhancement</b></summary>
+
+- [ ] **Advanced Image Processing**
+  - Automatic format conversion (WebP, AVIF)
+  - Smart compression with quality presets
+  - Batch resize and watermarking
+  - Background removal AI
+
+- [ ] **Album Power-Ups**
+  - Album templates (Portfolio, Event, Product Catalog)
+  - Collaborative albums (multi-user management)
+  - Album widgets for embedding
+  - Advanced sorting and filtering
+
+- [ ] **Enhanced Analytics**
+  - Real-time view tracking
+  - Geographic distribution maps
+  - Referrer analytics
+  - Download statistics
+
+</details>
+
+<details>
+<summary><b>📅 Q2 2026 - AI & Automation</b></summary>
+
+- [ ] **AI Features**
+  - Automatic image tagging and categorization
+  - Smart search with natural language
+  - Duplicate detection
+  - Content-aware image suggestions
+
+- [ ] **Workflow Automation**
+  - GitHub Actions integration
+  - Webhooks for image events
+  - Auto-backup to multiple locations
+  - Scheduled album publishing
+
+- [ ] **Developer Tools**
+  - SDKs for Python, JavaScript, Go
+  - CLI tool for power users
+  - WordPress plugin
+  - Browser extensions
+
+</details>
+
+<details>
+<summary><b>📅 Q3 2026 - Enterprise Features</b></summary>
+
+- [ ] **Team Collaboration**
+  - Multi-user workspaces
+  - Role-based permissions
+  - Team activity logs
+  - Shared asset libraries
+
+- [ ] **Advanced Storage**
+  - Multiple storage backend support
+  - Custom domain support
+  - CDN provider choice
+  - Automatic backups
+
+- [ ] **White-Label Options**
+  - Custom branding
+  - Subdomain hosting
+  - API rate limit customization
+  - Private deployments
+
+</details>
+
+<details>
+<summary><b>📅 Q4 2026 - Platform Expansion</b></summary>
+
+- [ ] **Mobile Apps**
+  - iOS native app
+  - Android native app
+  - Cross-platform sharing
+  - Offline mode
+
+- [ ] **Media Expansion**
+  - Video hosting support
+  - Audio file hosting
+  - Document storage
+  - 3D model support
+
+- [ ] **Integration Ecosystem**
+  - Zapier integration
+  - Slack/Discord bots
+  - Social media auto-posting
+  - E-commerce platform plugins
+
+</details>
+
+---
+
+## 📜 Usage Policy
+
+### ✅ You ARE Free To:
+- ✨ Use this service for personal and commercial projects
+- 🍴 Fork and modify the code for your own use
+- 🤝 Contribute improvements via pull requests
+- 📢 Share and spread the word about AniPic
+- 🎓 Use in educational and learning projects
+- 🏢 Deploy for internal company use (with attribution)
+
+### ❌ You Are NOT Allowed To:
+- **🚫 Remove or modify credits/attribution** - This is required by license
+- **🚫 Deploy as competing service without credit** - Give credit where due
+- **🚫 Use for illegal or malicious purposes** - No NSFW, malware, copyright infringement
+- **🚫 Claim this project as your own work** - Be honest and transparent
+- **🚫 Resell or monetize without permission** - Contact us for commercial licensing
+
+> **⚠️ Removing credits is a violation of the MIT license and is strictly prohibited.**
+
+---
+
+## 🤝 For Contributors
 
 <div align="center">
 
-### This Project Needs Your Help!
+### 🌟 We Need Your Superpowers!
 
-As a young developer, I know this app has **major flaws everywhere**. 
+As developers constantly learning and growing, we know AniPic has room for improvement.
 <br/>
-I'm learning and improving every day, and **your contributions can help make AniPic better!**
+**Your expertise, ideas, and code can help us build something truly amazing!**
+
+<br/>
+
+![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-ff0040?style=for-the-badge&labelColor=0a0a0b)
 
 </div>
 
-### How to Contribute
+### 🎯 How to Contribute
 
-1. **Fork** the repository
-2. **Clone** your fork locally
-3. **Create** a new branch for your feature/fix
-4. **Make** your changes
-5. **Test** thoroughly
-6. **Submit** a Pull Request
+1. **🍴 Fork** the repository to your account
+2. **📥 Clone** your fork to your local machine
+3. **🌿 Create** a new branch (`git checkout -b feature/amazing-feature`)
+4. **✍️ Make** your awesome changes
+5. **✅ Test** thoroughly to ensure quality
+6. **💾 Commit** your changes (`git commit -m 'Add amazing feature'`)
+7. **📤 Push** to your branch (`git push origin feature/amazing-feature`)
+8. **🎉 Submit** a Pull Request with detailed description
 
-### Areas That Need Help
+### 🎨 Areas That Need Your Magic
 
-- Performance optimizations
-- Bug fixes
-- UI/UX improvements
-- Documentation
-- Testing
-- Accessibility
+<table>
+<tr>
+<td width="33%">
+
+**🚀 Performance**
+- Code optimization
+- Bundle size reduction
+- Caching strategies
+- Load time improvements
+
+</td>
+<td width="33%">
+
+**🎨 UI/UX**
+- Design improvements
+- Animation polish
+- Accessibility (A11y)
 - Mobile responsiveness
 
-> **Every contribution, big or small, is appreciated!**
+</td>
+<td width="33%">
+
+**🛠️ Features**
+- New integrations
+- API enhancements
+- Security hardening
+- Testing coverage
+
+</td>
+</tr>
+</table>
+
+### 🏆 Contribution Recognition
+
+All contributors are featured in our README and get special recognition badges! Top contributors may receive:
+- 🌟 Featured contributor status
+- 🎁 Exclusive early access to new features
+- 💌 Direct communication channel with the team
+
+> **💡 First time contributing? Check out our [Contributing Guide](CONTRIBUTING.md) for detailed instructions!**
 
 ---
 
-## Getting Started
+## 🚀 Getting Started
 
 ### Prerequisites
 
-- Node.js 18+ or Bun
-- GitHub account
-- GitHub OAuth App credentials
+```bash
+📦 Node.js 18+ or Bun
+🔑 GitHub account
+🔐 GitHub OAuth App credentials
+```
 
-### Installation
+### Quick Installation
 
 ```bash
 # Clone the repository
-git clone https://github.com/Im-mortals/anipic-vault.git
+git clone https://github.com//Arise-in/Anipic.git
 cd anipic-vault
 
-# Install dependencies
+# Install dependencies (choose one)
 npm install
 # or
 bun install
+# or
+yarn install
 
 # Set up environment variables
 cp .env.example .env
+# Edit .env with your credentials
 
 # Run development server
 npm run dev
+# or
+bun dev
+
+# Open http://localhost:3000 in your browser 🎉
 ```
 
-### Environment Variables
+### 🔐 Environment Variables
 
 ```env
-AUTH_SECRET=your_auth_secret
+# Authentication
+AUTH_SECRET=your_random_secret_key_here
 AUTH_GITHUB_ID=your_github_oauth_client_id
 AUTH_GITHUB_SECRET=your_github_oauth_client_secret
+
+# Optional: Custom Configuration
+NEXT_PUBLIC_APP_URL=http://localhost:3000
+GITHUB_REPO_NAME=anipic-storage
 ```
+
+### 🎯 Setting Up GitHub OAuth
+
+1. Go to [GitHub Developer Settings](https://github.com/settings/developers)
+2. Click "New OAuth App"
+3. Fill in the details:
+   - **Application name**: AniPic Local
+   - **Homepage URL**: `http://localhost:3000`
+   - **Authorization callback URL**: `http://localhost:3000/api/auth/callback/github`
+4. Copy the Client ID and generate a Client Secret
+5. Add them to your `.env` file
 
 ---
 
-## API Quick Start
+## 📡 API Quick Start
+
+### Upload an Image
 
 ```bash
-# Upload an image
 curl -X POST "https://anipic.aniflix.in/api/v1/upload" \
-  -H "Authorization: Bearer YOUR_GITHUB_USERNAME" \
-  -F "file=@photo.jpg"
-
-# Get image info
-curl "https://anipic.aniflix.in/api/v1/images/{imageId}"
+  -H "Authorization: Bearer YOUR_API_KEY" \
+  -F "file=@photo.jpg" \
+  -F "album=my-portfolio"
 ```
 
-**[View Full API Documentation →](https://anipic.aniflix.in/docs)**
+### Get Image Information
+
+```bash
+curl "https://anipic.aniflix.in/api/v1/images/{imageId}" \
+  -H "Authorization: Bearer YOUR_API_KEY"
+```
+
+### Create an Album
+
+```bash
+curl -X POST "https://anipic.aniflix.in/api/v1/albums" \
+  -H "Authorization: Bearer YOUR_API_KEY" \
+  -H "Content-Type: application/json" \
+  -d '{
+    "name": "My Portfolio",
+    "description": "Collection of my best work",
+    "privacy": "public"
+  }'
+```
+
+### List All Albums
+
+```bash
+curl "https://anipic.aniflix.in/api/v1/albums" \
+  -H "Authorization: Bearer YOUR_API_KEY"
+```
+
+**📚 [View Full API Documentation →](https://anipic.aniflix.in/docs)**
 
 ---
 
-## Other Aniflix Apps
+## 🌐 Other Aniflix Apps
 
 <div align="center">
 
-| App | Description | Link |
-|-----|-------------|------|
-| **Aniflix** | Main anime streaming platform | [aniflix.in](https://aniflix.in) |
-| **Arise** | Anime discovery and tracking | [arise.aniflix.in](https://arise.aniflix.in) |
-| **AniReads** | Manga and light novel reader | [anireads.aniflix.in](https://anireads.aniflix.in) |
-| **AniStream** | Alternative streaming service | [ani-stream.aniflix.in](https://ani-stream.aniflix.in) |
+| App | Description | Status | Link |
+|-----|-------------|--------|------|
+| **🎬 Aniflix** | Main anime streaming platform | 🟢 Live | [aniflix.in](https://aniflix.in) |
+| **✨ Arise** | Anime discovery and tracking | 🟢 Live | [arise.aniflix.in](https://arise.aniflix.in) |
+| **📚 AniReads** | Manga and light novel reader | 🟢 Live | [anireads.aniflix.in](https://anireads.aniflix.in) |
+| **📺 AniStream** | Alternative streaming service | 🟢 Live | [ani-stream.aniflix.in](https://ani-stream.aniflix.in) |
+| **🖼️ AniPic** | Image CDN and hosting | 🟢 Live | [anipic.aniflix.in](https://anipic.aniflix.in) |
 
 </div>
 
 ---
 
-## Community
+## 💬 Community & Support
 
 <div align="center">
+
+### Join Our Growing Community!
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/Aniflix.in_)
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Anipic_official)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/USEvkrNGuF)
 
-**Join our community for updates, support, and discussions!**
+**💡 Get help, share ideas, and connect with other AniPic users!**
 
 </div>
 
+### 📞 Need Help?
+
+- 📖 Check our [Documentation](https://anipic.aniflix.in/docs)
+- 💬 Join our [Discord Server](https://discord.gg/USEvkrNGuF)
+- 🐛 Report bugs via [GitHub Issues](https://github.com//Arise-in/Anipic/issues)
+- 📧 Email us at arise22k@gmail.com
+
 ---
 
-## Star History
+## 📊 Star History
 
 <div align="center">
 
-<a href="https://star-history.com/#Im-mortals/anipic-vault&Date">
+<a href="https://star-history.com/#/Arise-in/Anipic&Date">
  <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=Im-mortals/anipic-vault&type=Date&theme=dark" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=Im-mortals/anipic-vault&type=Date" />
-   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=Im-mortals/anipic-vault&type=Date" />
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=/Arise-in/Anipic&type=Date&theme=dark" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=/Arise-in/Anipic&type=Date" />
+   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=/Arise-in/Anipic&type=Date" width="100%" />
  </picture>
 </a>
 
+**⭐ Star us on GitHub — it motivates us to keep building!**
+
 </div>
 
 ---
 
-## Contributors
+## 🙌 Contributors
 
 <div align="center">
 
-<a href="https://github.com/Im-mortals/anipic-vault/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=Im-mortals/anipic-vault" />
+<a href="https://github.com/Arise-in/Anipic/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=Arise-in/Anipic" alt="Contributors" />
 </a>
 
-**Thanks to all contributors who help make AniPic better!**
+<br/><br/>
+
+**🎉 Huge thanks to all our amazing contributors who help make AniPic better every day!**
+
+<br/>
+
+[**Become a Contributor →**](https://github.com//Arise-in/Anipic/blob/main/CONTRIBUTING.md)
 
 </div>
 
 ---
 
-## License
+## 📄 License
+
+<div align="center">
 
 This project is open source and available under the **MIT License**.
 
-> **Important:** While the code is open source, you must maintain attribution and credits to the original authors. Removing credits is a violation of the license terms.
+[![License: MIT](https://img.shields.io/badge/License-MIT-ff0040.svg?style=for-the-badge)](LICENSE)
+
+> **⚠️ Important:** While the code is open source, you must maintain attribution and credits to the original authors. 
+> Removing credits is a violation of the license terms and undermines the open-source spirit.
+
+[Read Full License](LICENSE)
+
+</div>
+
+---
+
+## 🙏 Acknowledgments
+
+- Thanks to **GitHub** for providing free infrastructure and storage
+- Thanks to **Vercel** for seamless deployment and hosting
+- Thanks to the open-source community for amazing tools and libraries
+- Special thanks to all our users, contributors, and supporters! ❤️
 
 ---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=ff0040&height=100&section=footer&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=100&section=footer&animation=twinkling" width="100%"/>
 
 <br/>
 
-**Made with ❤️ by [Aniflix Developer Team](https://aniflix.in)**
+## 💖 Made with Love
+
+**Created and maintained by the [Aniflix Developer Team](https://aniflix.in)**
 
 <br/>
 
-<sub>Part of the Aniflix ecosystem</sub>
+<sub>Part of the Aniflix ecosystem • Building the future of anime entertainment</sub>
+
+<br/><br/>
+
+[![Made with Love](https://img.shields.io/badge/Made%20with-❤️-ff0040?style=for-the-badge&labelColor=0a0a0b)](https://aniflix.in)
+[![Open Source](https://img.shields.io/badge/Open-Source-ff0040?style=for-the-badge&labelColor=0a0a0b)](https://github.com/Arise-in/Anipic)
+
+<br/>
+
+**If you love AniPic, give us a ⭐ on GitHub!**
 
 </div>
