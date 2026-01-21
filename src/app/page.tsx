@@ -674,6 +674,14 @@ res = requests.post(
               <a href="/gallery" className="hover:text-white transition-colors">Gallery</a>
               <a href="/docs" className="hover:text-white transition-colors">API Docs</a>
               <a href="/settings" className="hover:text-white transition-colors">Settings</a>
+              <a
+                href="https://github.com/Arise-in?tab=repositories"
+                onClick={(e) => { e.preventDefault(); window.parent.postMessage({ type: "OPEN_EXTERNAL_URL", data: { url: "https://github.com/Arise-in?tab=repositories" } }, "*"); }}
+                className="hover:text-white transition-colors flex items-center gap-1"
+              >
+                <Github className="h-3.5 w-3.5" />
+                GitHub
+              </a>
             </div>
 
             <div className="flex items-center gap-4">

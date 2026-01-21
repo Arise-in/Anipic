@@ -9,14 +9,14 @@
 
 <br/>
 
-[![GitHub Stars](https://img.shields.io/github/stars/Arise-in/anipic?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0a0b&color=ff0040)](https://github.com/Arise-in/anipic/stargazers)
-[![GitHub Forks](https://img.shields.io/github/forks/Arise-in/anipic?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0a0b&color=ff0040)](https://github.com/Arise-in/anipic/network/members)
-[![GitHub Issues](https://img.shields.io/github/issues/Arise-in/anipic?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0a0b&color=ff0040)](https://github.com/Arise-in/anipic/issues)
+[![GitHub Stars](https://img.shields.io/github/stars/Im-mortals/anipic-vault?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0a0b&color=ff0040)](https://github.com/Im-mortals/anipic-vault/stargazers)
+[![GitHub Forks](https://img.shields.io/github/forks/Im-mortals/anipic-vault?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0a0b&color=ff0040)](https://github.com/Im-mortals/anipic-vault/network/members)
+[![GitHub Issues](https://img.shields.io/github/issues/Im-mortals/anipic-vault?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0a0b&color=ff0040)](https://github.com/Im-mortals/anipic-vault/issues)
 [![License](https://img.shields.io/badge/License-MIT-ff0040?style=for-the-badge&labelColor=0a0a0b)](LICENSE)
 
 <br/>
 
-[**Live Demo**](https://anipic.aniflix.in) · [**Report Bug**](https://github.com/Arise-in/anipic/issues) · [**Request Feature**](https://github.com/Arise-in/anipic/issues)
+[**Live Demo**](https://anipic.aniflix.in) · [**GitHub**](https://github.com/Arise-in?tab=repositories) · [**Report Bug**](https://github.com/Im-mortals/anipic-vault/issues) · [**Request Feature**](https://github.com/Im-mortals/anipic-vault/issues)
 
 <br/>
 
@@ -139,8 +139,8 @@ I'm learning and improving every day, and **your contributions can help make Ani
 
 ```bash
 # Clone the repository
-git clone https://github.com/Arise-in/anipic.git
-cd anipic
+git clone https://github.com/Im-mortals/anipic-vault.git
+cd anipic-vault
 
 # Install dependencies
 npm install
@@ -213,11 +213,11 @@ curl "https://anipic.aniflix.in/api/v1/images/{imageId}"
 
 <div align="center">
 
-<a href="https://star-history.com/#Arise-in/anipic&Date">
+<a href="https://star-history.com/#Im-mortals/anipic-vault&Date">
  <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=Arise-in/anipic&type=Date&theme=dark" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=Arise-in/anipic&type=Date" />
-   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=Arise-in/anipic&type=Date" />
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=Im-mortals/anipic-vault&type=Date&theme=dark" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=Im-mortals/anipic-vault&type=Date" />
+   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=Im-mortals/anipic-vault&type=Date" />
  </picture>
 </a>
 
@@ -229,8 +229,8 @@ curl "https://anipic.aniflix.in/api/v1/images/{imageId}"
 
 <div align="center">
 
-<a href="https://github.com/Arise-in/anipic/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=Arise-in/anipic" />
+<a href="https://github.com/Im-mortals/anipic-vault/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=Im-mortals/anipic-vault" />
 </a>
 
 **Thanks to all contributors who help make AniPic better!**

@@ -5,9 +5,15 @@ import { Providers } from "@/components/Providers";
 import { PWARegister } from "@/components/PWARegister";
 import Script from "next/script";
 
+const siteUrl = "https://anipic.aniflix.in";
+
 export const metadata: Metadata = {
-  title: "AniPic - Free Image CDN | By Aniflix",
-  description: "Lightning fast, unlimited image hosting powered by GitHub. Get instant shareable links with a stunning interface. Made by Aniflix Developer Team.",
+  metadataBase: new URL(siteUrl),
+  title: {
+    default: "AniPic - Free Unlimited Image CDN & Hosting | By Aniflix",
+    template: "%s | AniPic",
+  },
+  description: "Lightning fast, unlimited free image hosting powered by GitHub CDN. Upload images instantly, get shareable links, embed anywhere. No signup required. Made by Aniflix Developer Team.",
   manifest: "/manifest.json",
   icons: {
     icon: "/favicon.svg",
@@ -23,18 +29,58 @@ export const metadata: Metadata = {
     telephone: false,
   },
   applicationName: "AniPic",
-  keywords: ["image hosting", "CDN", "free", "github", "image upload", "share images", "aniflix", "anime"],
+  keywords: [
+    "image hosting",
+    "free image hosting",
+    "image CDN",
+    "free CDN",
+    "github image hosting",
+    "image upload",
+    "share images",
+    "unlimited storage",
+    "anime images",
+    "aniflix",
+    "image sharing",
+    "photo hosting",
+    "picture hosting",
+    "image link generator",
+    "direct image link",
+    "embed images",
+  ],
   authors: [{ name: "Aniflix Developer Team", url: "https://aniflix.in" }],
+  creator: "Aniflix Developer Team",
+  publisher: "Aniflix",
+  robots: {
+    index: true,
+    follow: true,
+    googleBot: {
+      index: true,
+      follow: true,
+      "max-video-preview": -1,
+      "max-image-preview": "large",
+      "max-snippet": -1,
+    },
+  },
   openGraph: {
     type: "website",
+    locale: "en_US",
+    url: siteUrl,
     siteName: "AniPic",
-    title: "AniPic - Free Image CDN | By Aniflix",
-    description: "Lightning fast, unlimited image hosting powered by GitHub. Made by Aniflix Developer Team.",
+    title: "AniPic - Free Unlimited Image CDN & Hosting",
+    description: "Lightning fast, unlimited free image hosting powered by GitHub CDN. Upload images instantly, get shareable links, embed anywhere. No signup required.",
   },
   twitter: {
     card: "summary_large_image",
-    title: "AniPic - Free Image CDN | By Aniflix",
-    description: "Lightning fast, unlimited image hosting powered by GitHub. Made by Aniflix Developer Team.",
+    title: "AniPic - Free Unlimited Image CDN & Hosting",
+    description: "Lightning fast, unlimited free image hosting powered by GitHub CDN. Upload images instantly, get shareable links, embed anywhere.",
+    creator: "@aniflix_in",
+  },
+  alternates: {
+    canonical: siteUrl,
+  },
+  category: "technology",
+  verification: {
+    google: "your-google-verification-code",
   },
 };
 
@@ -47,6 +93,34 @@ export const viewport: Viewport = {
   viewportFit: "cover",
 };
 
+const jsonLd = {
+  "@context": "https://schema.org",
+  "@type": "WebApplication",
+  name: "AniPic",
+  description: "Lightning fast, unlimited free image hosting powered by GitHub CDN. Upload images instantly, get shareable links, embed anywhere.",
+  url: siteUrl,
+  applicationCategory: "MultimediaApplication",
+  operatingSystem: "Any",
+  offers: {
+    "@type": "Offer",
+    price: "0",
+    priceCurrency: "USD",
+  },
+  creator: {
+    "@type": "Organization",
+    name: "Aniflix",
+    url: "https://aniflix.in",
+  },
+  featureList: [
+    "Unlimited free image hosting",
+    "Lightning fast CDN",
+    "No signup required",
+    "Direct image links",
+    "API access",
+    "Embed anywhere",
+  ],
+};
+
 export default function RootLayout({
   children,
 }: Readonly<{
@@ -54,6 +128,12 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
+      <head>
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
+        />
+      </head>
       <body className="antialiased">
         <Script
           id="orchids-browser-logs"
