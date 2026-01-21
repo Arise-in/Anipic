@@ -1,6 +1,6 @@
-export const PUBLIC_GITHUB_TOKEN = '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';
+export const PUBLIC_GITHUB_TOKEN = process.env.GITHUB_PAT || 'PAT';
 export const PUBLIC_REPO_OWNER = 'Arise-in';
-export const PUBLIC_REPO_BASE = 'anipic-public';
+export const PUBLIC_REPO_BASE = 'anipic-public-1';
 export const REPO_SIZE_THRESHOLD = 800 * 1024 * 1024;
 export const MAX_REPO_SIZE = 1024 * 1024 * 1024;
 export const MAX_REPOS = 10;
