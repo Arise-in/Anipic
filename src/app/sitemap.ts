@@ -1,30 +1,31 @@
 import { MetadataRoute } from "next";
 
-const siteUrl = "https://anipic.aniflix.in";
-
 export default function sitemap(): MetadataRoute.Sitemap {
+  const siteUrl = "https://anipic.aniflix.in";
+  const now = new Date();
+
   return [
     {
       url: siteUrl,
-      lastModified: new Date(),
+      lastModified: now,
       changeFrequency: "daily",
-      priority: 1,
+      priority: 1.0,
     },
     {
       url: `${siteUrl}/gallery`,
-      lastModified: new Date(),
+      lastModified: now,
       changeFrequency: "hourly",
       priority: 0.9,
     },
     {
       url: `${siteUrl}/docs`,
-      lastModified: new Date(),
+      lastModified: now,
       changeFrequency: "weekly",
       priority: 0.8,
     },
     {
       url: `${siteUrl}/settings`,
-      lastModified: new Date(),
+      lastModified: now,
       changeFrequency: "monthly",
       priority: 0.5,
     },
