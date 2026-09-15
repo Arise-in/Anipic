@@ -455,11 +455,11 @@ curl "https://anipic.aniflix.in/api/v1/albums" \
 
 <div align="center">
 
-<a href="https://star-history.com/#/Arise-in/Anipic&Date">
+<a href="https://www.star-history.com/?repos=arise-in%2Fanipic&type=date&releases=&legend=bottom-right">
  <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=/Arise-in/Anipic&type=Date&theme=dark" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=/Arise-in/Anipic&type=Date" />
-   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=/Arise-in/Anipic&type=Date" width="100%" />
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=arise-in/anipic&type=date&theme=dark&legend=bottom-right" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=arise-in/anipic&type=date&legend=bottom-right" />
+   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=arise-in/anipic&type=date&legend=bottom-right" />
  </picture>
 </a>
 
